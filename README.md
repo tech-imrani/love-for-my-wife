@@ -17,7 +17,7 @@ This project is hosted using **GitHub Pages** and includes a dark romantic theme
 
 ## 🚀 Live Website
 👉 Open here:  
-https://tech-imrani.github.io/love-for-galby/
+https://tech-imrani.github.io/love-for-my-wife/
 
 ---
 
