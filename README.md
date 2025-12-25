@@ -19,8 +19,6 @@ This project is hosted using **GitHub Pages** and includes a dark romantic theme
 👉 Open here:  
 https://tech-imrani.github.io/love-for-galby/
 
-_(Replace `yourusername` with your actual GitHub username)_
-
 ---
 
 ## 🔑 Password
