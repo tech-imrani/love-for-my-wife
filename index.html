@@ -39,18 +39,6 @@ body {
   to { transform: translateY(-10vh); }
 }
 
-/* 🔐 Lock screen */
-#lockScreen {
-  position: fixed;
-  inset: 0;
-  background: linear-gradient(to bottom, #0f0c29, #302b63);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  z-index: 10;
-}
-
 input {
   padding: 12px;
   border-radius: 20px;
@@ -111,14 +99,6 @@ p {
 </head>
 
 <body>
-
-<!-- 🔐 PASSWORD SCREEN -->
-<div id="lockScreen">
-  <h1>🔐 For Galby Only</h1>
-  <p>Enter the secret word ❤️</p>
-  <input type="password" id="passwordInput" placeholder="Password">
-  <button onclick="unlock()">Unlock</button>
-</div>
 
 <!-- 🌌 STARS -->
 <div class="stars"></div>
