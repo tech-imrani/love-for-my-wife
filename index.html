@@ -180,8 +180,3 @@ function toggleMusic() {
 const starsContainer = document.querySelector(".stars");
 for (let i = 0; i < 80; i++) {
   const star = document.createElement("div");
-  star.className = "star";
-  star.style.left = Math.random() * 100 + "vw";
-  star.style.animationDuration = (Math.random() * 5 + 5) + "s";
-  star.style.opacity = Math.random();
-  starsContainer.appendChild(star);
